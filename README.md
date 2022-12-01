@@ -7,7 +7,7 @@ In this analysis, we will be trying to determine the number of employees that wo
 We will consider as retiring employees all employees born between January, 1 1952 and December, 31 1955.
 
 
-###Results:
+### Results:
 
 * One of the main takeaways from the analysis is that 72,458 employees will be retiring soon. 
 
@@ -18,7 +18,7 @@ We will consider as retiring employees all employees born between January, 1 195
 * Finally, management should be focusing in the areas where the majority of retirees are (Engineer or Staff position) when implementing their new hiring strategies.
 
 
-###Summary: 
+### Summary: 
 
 Management will have to face a "silver tsunamy" of 72,458 roles total. But only 1,549 of them are elegible to be mentors in the program they are putting in place.
 
